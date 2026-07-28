@@ -1,21 +1,21 @@
 <h1 align="center">Hey, I'm Samuel 👋</h1>
-<p align="center">Building DeFi protocols and full-stack web apps — currently deep in the weeds on <b>BYND</b>.</p>
+<p align="center">Blockchain dev building DeFi protocols and chain-abstracted consumer apps.</p>
 
 <p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/0xetherFren"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:samuelegin53@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🚧 Featured Projects
+### 🏆 Featured Projects
 
 | Project | Description |
 |---|---|
-| **[BYND](https://github.com/samuelegin/BYND)** | Liquid-locker DeFi protocol on Mezo — deposit veMEZO NFTs for liquid veBYND, stake for MUSD yield, vote on gauge weights and earn bribes |
-
-> Add more rows here as you ship more projects.
+| **[BYND](https://github.com/samuelegin/BYND)** 🥈 | Liquid-locker protocol on Mezo pools fragmented veMEZO into liquid, tradeable veBYND, keeps locks active and refreshed, and routes combined boost to the highest-reward veBTC gauges. **2nd place, Mezo Hackathon 2.** |
+| **[mink](https://github.com/samuelegin/mink)** | Chain-abstracted social payments app send crypto by `@handle` like a message, no addresses, no bridging, no gas token juggling. Built on Magic embedded wallets + Particle Universal Accounts (EIP-7702), settles as native USDC on Arbitrum. Built for UXmaxx Hackathon 2026. Live: [mink-pearl.vercel.app](https://mink-pearl.vercel.app) |
+| **work3labs** |A job marketplace with onchain scrow on base. |
+| **0xport** |  Multichain transaction ledger with Awaken CSV export — track activity across chains and export it straight into tax/portfolio tooling. |
 
 ---
 
@@ -41,4 +41,4 @@
 
 ---
 
-<p align="center">📫 Reach me at <b>YOUR_EMAIL@example.com</b></p>
+<p align="center">📫 Reach me at <b>samuelegin53@gmail.com</b> · <b>@0xetherFren</b></p>
