@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Samuel 👋</h1>
-<p align="center">BynD coordinates veMEZO that would otherwise sit fragmented across many holders. A veMEZO holder deposits once and receives veBYND, a tradeable token that tracks their claim on the pooled position. From there, BynD keeps the locked positions active, refreshes them weekly, and routes the group’s combined boost to the veBTC positions with the strongest rewards. Holders do not have to remember weekly votes, chase every opportunity by hand, or be stuck in their position with no exit. <b>BYND</b>.</p>
+<p align="center">Building DeFi protocols and full-stack web apps — currently deep in the weeds on <b>BYND</b>.</p>
 
 <p align="center">
   <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -15,6 +15,7 @@
 |---|---|
 | **[BYND](https://github.com/samuelegin/BYND)** | Liquid-locker DeFi protocol on Mezo — deposit veMEZO NFTs for liquid veBYND, stake for MUSD yield, vote on gauge weights and earn bribes |
 
+> Add more rows here as you ship more projects.
 
 ---
 
@@ -40,4 +41,4 @@
 
 ---
 
-<p align="center">📫 Reach me at <b>samuelegin53@gmail.com</b></p>
+<p align="center">📫 Reach me at <b>YOUR_EMAIL@example.com</b></p>
